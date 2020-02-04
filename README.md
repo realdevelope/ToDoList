@@ -15,4 +15,4 @@
 
 ![Main](https://user-images.githubusercontent.com/48710889/73742807-93dfc580-4790-11ea-88ef-06e5765ca7d5.PNG)
 
-## 직접
+## 직접 확인해보세요
